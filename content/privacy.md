@@ -5,7 +5,7 @@ date: 2021-05-10T12:50:44+02:00
 
 # Privacy Policy
 
-<p>Last updated: May 15, 2021</p>
+<p>Last updated: May 10, 2021</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 </p>
 <p>
