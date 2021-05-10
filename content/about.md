@@ -3,9 +3,8 @@ title: "About"
 date: 2021-05-08T16:42:56+02:00
 ---
 
-<p>
-{{< home-video >}}
-</p>
+
+{{< youtube id="Opet3F0kt70" title="Welcome to Villa Prenc" >}}
 
 <p style="text-align:center;">Villa Prenc is a modern, newly built house in the center of Matulji, 3km from the nearest beach.
 It provides three bedrooms with own bathrooms, fully equiped kitchen, pool, big garden with children playground, table tennis, outdoor grill, a tavern with a wine collection and much more.
