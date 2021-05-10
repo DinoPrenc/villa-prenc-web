@@ -6,12 +6,22 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Mon, 10 May 2021 12:50:44 +0200</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>Privacy Policy Last updated: May 15, 2021
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.  We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Sat, 08 May 2021 16:45:06 +0200</pubDate>
       
       <guid>/contact/</guid>
-      <description> You can contact us by sending an email to info@villaprenc.hr or by using the contact form bellow
+      <description> You can contact us by sending an email to villaprenc@gmail.com or by using the contact form bellow
 Your email: Subject:Message:Submit  </description>
     </item>
     
@@ -39,12 +49,11 @@ E 11.01. - 09.05 12.09. - 12.12. 02.01. - 09.01
       
       <guid>/gallery/</guid>
       <description>Webp
+      Webp
       About img1
+      About img2
       Bg
-      Bgold
-      Overlay
-      Pic01
-      Pic02</description>
+      Bgold</description>
     </item>
     
     <item>

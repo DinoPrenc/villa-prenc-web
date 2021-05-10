@@ -16,5 +16,8 @@ We can accommodate up to 8 guests
 
 <p style="text-align:center;">
 At your disposal you have four beautiful terraces for relax and enjoy the beautiful sunset with a glass of good wine. If you wish for summer bustle and beautiful beaches, we suggest visiting Opatija, famous for its architecture and beautiful parks. For all nature lovers, there is Ucka Nature Park with numerous mountain and bike trails. Also Istria is nearby for more interesting adventures. 
+<br><br>
+<img src="images/about-img2.jpg" width=100%>
+<br>
 </p>
 
