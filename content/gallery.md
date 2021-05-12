@@ -9,5 +9,5 @@ For the newest photos follow us on our
 <a href="https://www.instagram.com/villaprenc/" target="_blank">Instagram page @villaprenc</a>
 </p>
 
-{{< load-photoswipe >}}
+
 {{< gallery dir="images/gallery" />}}
