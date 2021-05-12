@@ -48,7 +48,14 @@ E 11.01. - 09.05 12.09. - 12.12. 02.01. - 09.01
       <pubDate>Sat, 08 May 2021 16:44:48 +0200</pubDate>
       
       <guid>/gallery/</guid>
-      <description>For the newest photos follow us on our Instagram page @villaprenc   #slide-window { position: relative; width: 720px; height: 480px; overflow: hidden; top: 0px; left: 0px; } #slides-list { width: 720px; height: 480px; position: absolute; margin: 0px; padding: 0px; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px); transition: all 0.66s ease; -webkit-transition: all 0.66s ease; } .slide { list-style: none; position: relative; float: left; margin: 0; padding: 0; width: 720px; height: 480px; background: #ccc; text-align: center; line-height: 100%; background-size: cover; background-position: 50% 50%; color: #fff; -webkit-transform: translate3d(0px, 0px, 0px); -webkit-transform-style: preserve-3d; } .</description>
+      <description>For the newest photos follow us on our Instagram page @villaprenc   Exterior 01
+      Exterior 02
+      Exterior 03
+      Exterior 04
+      Exterior 05
+      Exterior 06
+      Exterior 07
+      Exterior 08</description>
     </item>
     
     <item>
