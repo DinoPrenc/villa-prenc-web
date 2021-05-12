@@ -10,4 +10,7 @@ For the newest photos follow us on our
 </p>
 
 
+{{< gallery-slider dir="images/gallery"  width="720px" height="480px">}}
+<hr>
+
 {{< gallery dir="images/gallery" />}}
