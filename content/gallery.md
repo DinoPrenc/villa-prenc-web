@@ -10,4 +10,4 @@ For the newest photos follow us on our
 </p>
 
 {{< load-photoswipe >}}
-{{< gallery dir="images" />}}
+{{< gallery dir="images/gallery" />}}
