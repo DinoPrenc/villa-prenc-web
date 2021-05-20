@@ -1,9 +1,11 @@
 name = "Villa Prenc"
+title = "Villa Prenc"
 license = "CC 3.0"
+languageCode = "en"
 licenselink = "https://creativecommons.org/licenses/by/3.0/"
-description = "Villa Prenc"
+description = "Villa Prenc Matulji Croatia, beautiful villa on adriatic coast"
 homepage = "https://github.com/your-identity/hugo-theme-dimension/"
-tags = ["blog", "clean", "customizable", "dark", "highlighting", "minimal", "personal", "responsive", "simple"]
+tags = ["blog", "clean", "dark", "highlighting", "minimal", "personal", "responsive", "simple", "villa", "prenc", "matulji", "opatija", "croatia", "luxury"]
 features = ["blog", "syntax highlighting"]
 min_version = 0.54
 

@@ -20,10 +20,10 @@
     <loc>/about/</loc>
     <lastmod>2021-05-08T16:42:56+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
-  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/</loc>
   </url>
 </urlset>
