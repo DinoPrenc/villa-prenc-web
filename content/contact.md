@@ -9,5 +9,5 @@ date: 2021-05-08T16:45:06+02:00
 
 <br>
 <p style="text-align:center;">
-<a href="https://www.instagram.com/villaprenc/" target="_blank"><img src="images/instagram_icon.jpg" width="15%"></a>
+<a href="https://www.instagram.com/villaprenc/" target="_blank"><img src="images/instagram_icon.jpg" width="15%" alt="instagram"></a>
 </p>
