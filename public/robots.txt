@@ -9,3 +9,4 @@ Disallow: /location
 Disallow: /prices
 Disallow: /privacy
 Disallow: /tags
+Disallow: /privacy
