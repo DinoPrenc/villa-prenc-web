@@ -8,6 +8,7 @@ homepage = "https://github.com/your-identity/hugo-theme-dimension/"
 tags = ["blog", "clean", "dark", "highlighting", "minimal", "personal", "responsive", "simple", "villa", "prenc", "matulji", "opatija", "croatia", "luxury"]
 features = ["blog", "syntax highlighting"]
 min_version = 0.54
+googleAnalytics = "G-VWC6EQKS7H"
 
 [author]
   name = "PRENC"
