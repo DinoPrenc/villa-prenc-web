@@ -4,7 +4,6 @@ Disallow: /about
 Disallow: /categories
 Disallow: /contact
 Disallow: /gallery
-Disallow: /images
 Disallow: /location
 Disallow: /prices
 Disallow: /privacy
